@@ -2,7 +2,7 @@
 
 <br>
 
-![](https://raw.githubusercontent.com/Matthewpco/WP-Plugin-Include-Extra-Scripts/main/include-extra-scripts-screenshot.png)
+![](https://raw.githubusercontent.com/Matthewpco/WP-Plugin-Form-Modal-Shortcode/main/form-modal-shortcode-screenshot-1.png)
 
 <br>
 
@@ -20,4 +20,4 @@
 - PHP
 - WordPress Plugin
 
-![](https://raw.githubusercontent.com/Matthewpco/WP-Plugin-Include-Extra-Scripts/main/include-extra-scripts-screenshot.png)
+![](https://raw.githubusercontent.com/Matthewpco/WP-Plugin-Form-Modal-Shortcode/main/form-modal-shortcode-screenshot-2.png)
